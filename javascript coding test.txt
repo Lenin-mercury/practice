@@ -1,0 +1,145 @@
+1. Introduction to Complexity Measures
+Comparing Algorithms
+Example 1: Measuring Time Complexity of a Single Loop Algorithm
+Example 2: Time Complexity of an Algorithm With Nested Loops
+Introduction to Asymptotic Analysis and Big O
+Other Common Asymptotic Notations and Why Big O Trumps Them
+Useful Formulae
+Common Complexity Scenarios
+Challenge 1: Big (O) of Nested Loop with Addition
+Solution Review: Big (O) of Nested Loop with Addition
+Challenge 2: Big (O) of Nested Loop with Subtraction
+Solution Review: Big (O) of Nested Loop with Subtraction
+Challenge 3: Big (O) of Nested Loop with Multiplication
+Solution Review: Big (O) of Nested Loop with Multiplication
+Challenge 4: Nested Loop with Multiplication (Basic)
+Solution Review: Nested Loop with Multiplication (Basic)
+Challenge 5: Nested Loop with Multiplication (Intermediate)
+Solution Review: Nested Loop with Multiplication (Intermediate)
+Challenge 6: Nested Loop with Multiplication (Advanced)
+Solution Review: Nested Loop with Multiplication (Advanced)
+Challenge 7: Nested Loop with Multiplication (Pro)
+Solution Review: Nested Loop with Multiplication (Pro)
+Complexity Quiz: Test Your Understanding of Complexity
+
+
+2. Introduction to Arrays
+Arrays
+var vs. let vs. const
+Challenge 1: Remove Even Integers From an Array
+Solution Review: Remove Even Integers From an Array
+Challenge 2: Merge Two Sorted Arrays
+Solution Review: Merge Two Sorted Arrays
+Challenge 3: Find Two Numbers that Add up to "value"
+Solution Review: Find Two Numbers that Add up to "value"
+Challenge 4: Array of Products of All Elements
+Solution Review: Array of Products of All Elements
+Challenge 5: Find Minimum Value in Array
+Solution Review: Find Minimum Value in Array
+Challenge 6: Find First Unique Integer in an Array
+Solution Review: First First Unique Integer in an Array
+
+Challenge 7: Find Second Maximum Value in an Array
+Solution Review: Find Second Maximum Value in an Array
+
+Challenge 8: Right Rotate an Array by n
+Solution Review: Right Rotate an Array by n
+Challenge 9: Rearrange Positive & Negative Values
+Solution Review: Rearrange Positive & Negative Values
+Challenge 10: Rearrange Sorted Array in Max/Min Form
+Solution Review: Rearrange Sorted Array in Max/Min Form
+Challenge 11: Maximum Sum Subarray
+Solution Review: Maximum Sum Subarray
+Arrays Quiz: Test Your Understanding of Arrays
+
+
+3. Introduction to Linked Lists
+Singly Linked Lists (SLL)
+Basic Linked List Operations
+Singly Linked List Insertion
+
+Challenge 1: Insertion at Tail
+Solution Review: Insertion at Tail
+
+Challenge 2: Search in a Singly Linked List
+Solution Review: Search in a Singly Linked List
+Singly Linked List Deletion
+
+Challenge 3: Deletion by Value
+Solution Review: Deletion by Value
+Deletion at the Tail
+Linked Lists vs. Arrays
+
+Challenge 4: Find the Length of a Linked List
+Solution Review: Find the Length of a Linked List
+
+Challenge 5: Reverse a Linked List
+Solution Review: Reverse a Linked List
+Challenge 6: Detect Loop in a Linked List
+Solution Review: Detect a Loop in a Linked List
+Challenge 7: Find Middle Node of Linked List
+Solution Review: Find Middle Node of a Linked List
+Challenge 8: Remove Duplicates from Linked List
+Solution Review: Remove Duplicates from a Linked List
+Challenge 9: Union & Intersection of Linked Lists
+Solution Review: Union and Intersection of Linked Lists
+Challenge 10: Return the Nth Node from the End
+Solution Review: Return the Nth Node from the End
+Doubly Linked Lists (DLL)
+Singly Linked Lists vs. Doubly Linked Lists
+Linked Lists Quiz: Test Your Understanding of Linked Lists
+
+
+4. Introduction to Stack/Queues
+What is a Stack?
+Stack (Implementation)
+What is a Queue?
+Queue (Implementation)
+Challenge 1:​ Generate Binary Numbers From 1 to n Using Queue
+Solution Review: Generate Binary Numbers From 1 to n Using Queue
+Challenge 2: Implement Two Stacks using One Array
+Solution Review: Implementing Two Stacks Using One Array
+Challenge 3: Reversing First k Elements of Queue
+Solution Review: Reversing First k Elements of Queue
+Challenge 4: Implement a Queue Using Stacks
+Solution Review: Implement a Queue Using Stacks
+Challenge 5: Sort Values in a Stack
+Solution Review: Sort Values in Stack
+Challenge 6: Evaluate Postfix Expression Using a Stack
+Solution Review: Evaluate Postfix Expression Using a Stack
+Challenge 7: Next Greater Element Using a Stack
+Solution Review: Next Greater Element Using a Stack
+Challenge 8: Check Balanced Parentheses Using Stack
+Solution Review: Check Balanced Parentheses Using Stack
+Challenge 9: min() Function Using a Stack
+Solution Review: min() Function Using a Stack
+Stack/Queue Quiz: Test Your Understanding of Stack/Queue
+
+
+5. Introduction to Graphs
+What is a Graph?
+Types of Graphs
+Representation of Graphs
+Graph Implementation
+Complexities of Graph Operations
+What is a Bipartite Graph?
+Graph Traversal Algorithms
+Challenge 1: Implement Breadth First Search
+Solution Review: Implement Breadth First Search
+Challenge 2: Implement Depth First Search
+Solution Review: Implement Depth First Search
+Challenge 3: Detect Cycle in Graph
+Solution Review: Detect Cycle in Graph
+Challenge 4: Find a "Mother Vertex" in a Graph
+Solution Review: Find a "Mother Vertex" in a Graph
+Challenge 5: Count the Number of Edges in an Undirected Graph
+Solution Review: Count the Number of Edges in an Undirected Graph
+Challenge 6: Check if a Path Exists Between Two Vertices
+Solution Review: Check if a Path Exists Between Two Vertices
+Challenge 7: Check if an Undirected Graph is Tree or not
+Solution Review: Check if an Undirected Graph is Tree or not
+Challenge 8: Find the Shortest Path Between Two Vertices
+Solution Review: Find the Shortest Path Between Two Vertices
+Challenge 9: Remove Edge
+Solution Review: Remove Edge
+Graph Quiz: Test Your Understanding of Graphs
